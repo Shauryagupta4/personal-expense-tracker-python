@@ -20,7 +20,7 @@ Perfect for beginners to practice data handling, file I/O, input validation, and
 ## How to Run
 1. Clone the repo: https://github.com/Shauryagupta4/personal-expense-tracker-python.git
 2. Install dependencies: pip install pandas
-3. Run the app: python_track.py or whatever your file name is
+3. Run the app: python track.py or whatever your file name is
 
 ## What I Learned (as a 1st-year CSE AIML student)
 - Proper CSV header handling (create once, append without header)
