@@ -35,5 +35,10 @@ Perfect for beginners to practice data handling, file I/O, input validation, and
 - Delete/edit expenses
 - Simple ML spending prediction
 
+## Screenshots
+![Main Menu](menu.png)
+![Adding Expenses](add-expense.png)
+![Monthly Summary](monthly.png)
+
 Built with ❤️ by Shaurya  
 March 2026
