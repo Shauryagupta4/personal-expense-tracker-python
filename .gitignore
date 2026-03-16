@@ -1,0 +1,7 @@
+# Ignore personal data
+expense_tracker.csv
+
+# Ignore virtual env
+venv/
+__pycache__/
+*.pyc
